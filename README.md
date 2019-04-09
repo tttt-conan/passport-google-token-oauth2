@@ -26,7 +26,7 @@ list so other people can find it.
 
 ## Install
 
-    $ npm install passport-oauth2
+    $ npm install https://github.com/tttt-conan/passport-google-token-oauth2
 
 ## Usage
 

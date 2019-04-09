@@ -1,5 +1,5 @@
 {
-  "name": "passport-oauth2",
+  "name": "passport-google-token-oauth2",
   "version": "1.5.0",
   "description": "OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "https://github.com/tttt-conan/passport-google-token-oauth2"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
+    "url": "https://github.com/tttt-conan/passport-google-token-oauth2/issues"
   },
   "license": "MIT",
   "licenses": [
